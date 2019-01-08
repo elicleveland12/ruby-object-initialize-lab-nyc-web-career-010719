@@ -5,8 +5,8 @@ class Dog
     if breed = nil
       breed == "Mutt"
     else 
-    @breed = breed 
-  end 
+      @breed = breed 
+    end 
   end 
   
   def name 
