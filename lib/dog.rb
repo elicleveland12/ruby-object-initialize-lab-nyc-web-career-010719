@@ -10,11 +10,7 @@ class Dog
   end 
   
   def breed 
-    if breed != nil 
-      @breed
-    else 
-      "Mutt"
-    end 
+   @breed 
   end 
   
 end 
